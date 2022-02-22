@@ -19,4 +19,4 @@
   h. [AREPL](https://marketplace.visualstudio.com/items?itemName=almenon.arepl) <br>
   i. [Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) <br>
   j. [Docs](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring) <br>
-  K. [Markdown Preview](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) <br>
+  k. [Markdown Preview](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) <br>
